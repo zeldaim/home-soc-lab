@@ -112,6 +112,14 @@ terraform-soc/
 
 ---
 
+## Demo
+
+[![Home SOC Lab Demo](https://img.youtube.com/vi/oV8DtGnOx90/0.jpg)](https://youtu.be/oV8DtGnOx90)
+
+> Wazuh detection demo — T1046 real-time alert / T1110 results
+
+---
+
 ## Resume Summary
 
 > Built a home SOC lab from scratch using Wazuh 4.9.0 + ELK on Rocky Linux 9 (Docker); authored MITRE ATT&CK-mapped detection rules (T1046/T1190/T1110) with active response automation; provisioned the full stack via Terraform with GitHub Actions CI.
